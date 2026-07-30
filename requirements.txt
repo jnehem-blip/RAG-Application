@@ -1,0 +1,16 @@
+streamlit
+python-dotenv
+
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+langsmith
+
+sentence-transformers
+faiss-cpu
+
+pypdf
+
+openai
+tiktoken
